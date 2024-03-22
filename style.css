@@ -44,8 +44,13 @@
 .categories img{
     height: 110px;
 }
-.card{
+.card-shoes{
     border: none;
     box-shadow: 6px 6px 12px rgb(189, 235, 238);
     background-image: linear-gradient(to top, rgb(158, 253, 240) 0%, rgb(0, 255, 76) 100%);
+}
+.card-backpack{
+    border: none;
+    box-shadow: 6px 6px 12px rgb(224, 248, 250);
+    background-image: linear-gradient(to top, rgb(158, 253, 240) 0%, rgb(0, 140, 255) 100%);
 }
